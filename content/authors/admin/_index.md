@@ -47,42 +47,31 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 城市规划
+  - 城市设计
+  - 建筑设计
+  - 景观设计
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: 公共管理硕士（MPA）
+    institution: 同济大学经济与管理学院
+    date_start: 2003.04  
+    date_end: 2005.11
+    summary: 深入学习城市公共事务管理与区域政策分析，为城乡规划中的政策制定与资源调配提供理论支撑。
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: 自然地理学硕士
+    institution: 新疆大学资源与环境学院
+    date_start: 1998.09 
+    date_end: 2000.07
+    summary: 专注于综合自然地理与区域开发规划，培养了对自然环境与人类活动相互关系的深刻理解，为城乡规划的生态考量奠定基础。
+  
+  - area: 城市规划学士
+    institution: 西北建筑工程学院
+    date_start: 1993.09 
+    date_end: 1997.07
+    summary: 系统学习城市规划专业知识，掌握城乡规划设计的基本理论与方法。
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +172,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+王晓东，男，汉族，注册城市规划师、高级工程师、一级注册建筑师，现任深圳中营都市设计研究院副总规划师。1997 年毕业于西北建筑工程学院获城市规划专业学士学位，2000 年毕业于新疆大学资源与环境学院获地理学硕士学位，2005 年毕业于同济大学经济与管理学院获 MPA（公共管理硕士）学位，拥有城乡规划学士、自然地理学硕士及公共管理硕士（MPA）学位。长期致力于城乡规划设计的定量研究与实践创新。学术贡献方面，提出“多尺度街道网络熵值模型”，研究基于 Python 的城市形态智能分析平台。实践中主导完成多项项目，包括成都、都江堰、新津等历史文化名城的概念规划和城市设计，中国最美景观大道317/318 川藏世界旅游目的地（四川段）总体规划、高原藏区旅游扶贫规划及实施计划（2016），深圳市罗湖区全域生态文化旅游研究等市级项目，代表作获深圳市优秀城乡规划设计一等奖等荣誉。此外，发表《生态理念在城市河流改造中的应用》等核心论文，参编《四川藏区民居图谱》专著，兼具学术深度与实践影响力，入选国家旅游局“万名旅游英才计划”。
+
+
